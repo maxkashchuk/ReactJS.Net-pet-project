@@ -1,0 +1,33 @@
+.background {
+    background: url('https://images.pexels.com/photos/933054/pexels-photo-933054.jpeg?cs=srgb&dl=pexels-joyston-judah-933054.jpg&fm=jpg');
+    background-size: 100% 100%;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.register-inputs {
+    padding: 3%;
+}
+
+.register-form {
+    margin-left: 30%;
+    margin-top: 8%;
+    background-color: white;
+    border-radius: 20px;
+    width: 72vh;
+    padding: 2vh;
+    height: 62vh;
+}
+
+.register-button {
+    margin-left: 15vh;
+}
+
+.form-section {
+    padding: 3%;
+}
+
+.datepicker {
+    color: black;
+}
